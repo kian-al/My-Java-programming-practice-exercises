@@ -1,4 +1,4 @@
-package com.practice.sessionOne;
+package com.practice.session1;
 import java.util.Scanner;
 public class practice3 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.practice.sessionOne;
+package com.practice.session1;
 public class practice2 {
     public static void main(String[] args) {
         for (int i = 1; i <= 10; i++) {

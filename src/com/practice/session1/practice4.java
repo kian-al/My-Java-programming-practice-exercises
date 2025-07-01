@@ -1,4 +1,4 @@
-package com.practice.sessionOne;
+package com.practice.session1;
 import java.util.ArrayList;
 import java.util.Scanner;
 
