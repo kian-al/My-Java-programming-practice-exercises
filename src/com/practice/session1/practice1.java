@@ -1,8 +1,8 @@
-package com.trains.train1;
+package com.practice.session1;
 
 import java.util.Scanner;
 
-public class train1 {
+public class practice1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

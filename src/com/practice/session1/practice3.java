@@ -1,6 +1,6 @@
-package com.train.main.train1;
+package com.practice.session1;
 import java.util.Scanner;
-public class train3 {
+public class practice3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int numberOfArray = input.nextInt();
